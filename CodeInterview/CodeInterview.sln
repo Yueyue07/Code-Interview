@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\LinkedList.csproj", "{27609A3B-5726-4141-97AA-663912C772E4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListExce", "LinkedList\LinkedListExce.csproj", "{27609A3B-5726-4141-97AA-663912C772E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack", "Stack\Stack.csproj", "{21D3B803-3408-4170-844A-6B8E39D2A8EE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackExce", "Stack\StackExce.csproj", "{21D3B803-3408-4170-844A-6B8E39D2A8EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{CAAED55C-9540-43CA-99D3-194F642A158B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchExce", "BinarySearch\BinarySearchExce.csproj", "{CAAED55C-9540-43CA-99D3-194F642A158B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayExce", "ArrayExce\ArrayExce.csproj", "{9933E55C-6A79-4527-B436-BB3679FAB059}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{CAAED55C-9540-43CA-99D3-194F642A158B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAAED55C-9540-43CA-99D3-194F642A158B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAAED55C-9540-43CA-99D3-194F642A158B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9933E55C-6A79-4527-B436-BB3679FAB059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9933E55C-6A79-4527-B436-BB3679FAB059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9933E55C-6A79-4527-B436-BB3679FAB059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9933E55C-6A79-4527-B436-BB3679FAB059}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
